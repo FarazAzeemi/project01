@@ -9,14 +9,14 @@ function App({name,drinks}) {
       Hello world!
       Hello <strong>{name}!</strong>
       <ol>
-      <h1>Soft Drinks</h1>
+       <li><h1>Soft Drinks</h1></li>
         <ul>
         <li>Cocacola</li>
         <li>Pepsi</li>
         <li>Sprite</li>
         <li>Fanta</li>
         </ul>
-      <h1>Home Made Drinks</h1>
+        <li><h1>Home Made Drinks</h1></li>
         <ul>
           <li>Tea</li>
           <li>Coffee</li>
